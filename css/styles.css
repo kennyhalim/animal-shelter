@@ -1,3 +1,4 @@
+@media screen and (min-width:1228px) {
 .animal1{
   float:left;
   width:33%;
@@ -64,4 +65,17 @@ h1 {
 
 body {
   background-color: lightblue;
+}
+}
+
+@media screen and (min-width: 600px) and (max-width:1227px) {
+body {
+  background-color: lightpink;
+}
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  body {
+    background-color: white;
+  }
 }
