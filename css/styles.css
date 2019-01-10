@@ -1,0 +1,67 @@
+.animal1{
+  float:left;
+  width:33%;
+  height:800px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.animal2{
+  float:left;
+  width:33%;
+  text-align: center;
+  border: 2px outset;
+  height:800px;
+
+}
+
+.animal3{
+  float:left;
+  width:33%;
+  text-align: center;
+  border: 2px outset;
+  height:800px;
+}
+.bottom{
+  text-align: center;
+
+}
+
+.animal1 p {
+  font-size: 20px;
+  font-family: cursive;
+
+}
+
+.animal2 p {
+  font-size: 20px;
+  font-family: cursive;
+
+}
+
+.animal3 p {
+  font-size: 20px;
+  font-family: cursive;
+
+}
+.animal2 h3 a {
+  color:red;
+  font-size:24px;
+}
+
+.animal1 h3 a {
+  color:red;
+  font-size:24px;
+}
+
+.animal3 h3 a {
+  color:red;
+  font-size:24px;
+}
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+}
